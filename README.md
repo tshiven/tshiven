@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 🌱 I am currently learning Pytorch and looking at AI applications through this tool.
 
-⚡ I am looking to collaborate on future innovations, particularly in Engineering,Applied math and CS.
+⚡ I am looking to collaborate on future innovations, particularly in engineering,applied math and CS.
 
 📫 Feel free to reach out to me through email: Shiven07.t@gmail.com
