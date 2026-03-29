@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I am currently working on LearnPulse.ai, a personal productivity app powered by AI-driven analytics. Feel free to check www.LearnPulse.ai
+🔭 I am currently working on DonePulse.com, a personal productivity app powered by AI-driven analytics. Feel free to check www.LearnPulse.ai
 
 🌱 I am currently learning Pytorch and looking at AI applications through this tool.
 
 ⚡ I am looking to collaborate on future innovations, particularly in engineering,applied math and CS.
 
-📫 Feel free to reach out to me through email: Shiven07.t@gmail.com
+📫 Feel free to reach out to me through email: tshiven@ucla.edu
